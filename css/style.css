@@ -21,7 +21,7 @@ text-transform: uppercase;
 	color: #f74d65;
 }
 header{
-	background: url(../images/header_bg.jpg);
+	background: url(../images/header_bg2.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -167,7 +167,7 @@ padding-top: 110px;
 
 /*Fun Facts*/
 .fun_facts{
-	background: url(../images/header_bg.jpg);
+	background: url(../images/header_bg2.jpg);
 	background-attachment: fixed !important;
 	background-repeat: repeat;
 	
