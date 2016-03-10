@@ -18,7 +18,7 @@ color: #777;
 text-transform: uppercase;
 }
 .navbar-default .navbar-nav>li>a:hover{
-	color: #f74d65;
+	color: #f74d65;	
 }
 header{
 	background: url(../images/header_bg2.png);
@@ -68,7 +68,8 @@ header{
 }
 .single_service i{
 	font-size: 25px;
-	color: #f73b56;
+	/*color: #f73b56;*/
+	color: #8BD19B;
 }
 .single_service h2{
 	color: #000000;
@@ -127,7 +128,8 @@ background-color: #2d3334;
 	position: absolute;
 	width: 80px;
 	height: 80px;
-	background-color: #f73b56;
+	/*background-color: #f73b56;*/
+	background-color: #8BD19B;
 	top: 110px;
 	left: 50%;
 	-moz-transform: rotate(45deg);
@@ -180,7 +182,8 @@ padding-bottom: 30px;
 padding-top: 120px;	
 }
 .single_count i{
-	color: #f73b56;
+	/*color: #f73b56;*/
+	color: #8BD19B;
 	font-size: 24px;
 }
 .single_count h3{
@@ -204,7 +207,8 @@ width: 16px;
 height: 1px;
 left: 0;
 bottom: -4px;
-background: #ef4251;
+/*background: #ef4251;*/
+background: #8BD19B;
 }
 .imac{
 position: relative;
@@ -321,8 +325,10 @@ text-transform: uppercase;
 	transition: all 1s;
 }
 .cs-btn:hover{
-	background: #f74d65;
-	border-color: #f74d65;
+	background: #8BD19B;
+	border-color: #8BD19B;
+	/*background: #f74d65;
+	border-color: #f74d65;*/
 }
 .call_to_action .container{
 	padding-bottom: 60px;
@@ -366,7 +372,8 @@ border: 0px solid #fff;
 }
 .form_submit{
 width: 100%;
-background: #f73b56;
+background: #8BD19B;
+/*background: #f73b56;*/
 border-radius: 0px;
 color: #fff;
 padding-top: 13px;
@@ -427,8 +434,10 @@ line-height: 28px;
 transition: all 1s;
 }
 ul.icon_list li a:hover{
-	color: #f73b56;
-	border-color:#f73b56; 
+	color: #8BD19B;
+	/*color: #f73b56;*/
+	/*border-color:#f73b56;*/ 
+	border-color: #8BD19B;
 }
 .copyright_text{
 padding-top: 80px;	
@@ -441,7 +450,8 @@ margin-bottom: 0px;
 letter-spacing: 0px;
 }
 .copyright_text a{
-	color:#f73b56;
+	/*color:#f73b56;*/
+	color: #8BD19B;
 	text-transform:uppercase;
 	font-weight:700;
 	text-decoration:none;
